@@ -6,16 +6,16 @@ Deployed on ARDUINO 33 BLE sense
 
 
 ![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171754_1824x984_scrot.png)
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171801_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171818_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171906_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172528_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172552_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172606_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173004_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173015_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173221_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173316_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173411_1824x984_scrot.png
-![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173525_1824x984_scrot.png
-![Examples from Dataset](
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171801_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171818_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-171906_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172528_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172552_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-172606_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173004_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173015_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173221_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173316_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173411_1824x984_scrot.png)
+![Examples from Dataset](https://github.com/dhruvsheth-ai/elevator-Automation-ARDUINO/blob/master/images/2020-08-19-173525_1824x984_scrot.png)
+
