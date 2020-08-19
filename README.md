@@ -4,3 +4,5 @@ Deployed on ARDUINO 33 BLE sense
 
 # © DhruvSheth - Developed on EdgeImpulse
 
+
+![Examples from Dataset](https://user-images.githubusercontent.com/1910070/78954124-1fcfdf80-7aa9-11ea-8033-678ef7da2083.png)
