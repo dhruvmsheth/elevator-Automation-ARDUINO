@@ -35,7 +35,7 @@ void setup()
     // put your setup code here, to run once:
     Serial.begin(115200);
 
-    Serial.println("Edge Impulse Inferencing Demo");
+    Serial.println("Elevator Automation Demo by DhruvSheth");
 
     // summary of inferencing settings (from model_metadata.h)
     ei_printf("Inferencing settings:\n");
