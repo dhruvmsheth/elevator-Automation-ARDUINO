@@ -3,7 +3,9 @@ Deployed on ARDUINO 33 BLE sense
 **Download the Arduino.zip file directly and upload it in the Arduino Libraries to avoid uploading files individually**
 Main-code.ino - https://create.arduino.cc/editor/Schemobotics/e1b677d7-bdbc-4c03-89f4-1f171eb97580/preview
 
-
+``` You need to replace the main.ino code in the library to 
+the microphone.ino code given to get output results
+```
 
 
 
