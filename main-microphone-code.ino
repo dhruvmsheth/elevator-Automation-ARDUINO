@@ -11,7 +11,7 @@
 #include <dhruvsheth12345-project-1_inference.h>
 #include <Servo.h>
 
-Servo servo_7;
+Servo servo_9;
 Servo servo_8;
 
 /** Audio buffers, pointers and selectors */
@@ -52,7 +52,7 @@ void setup()
     
   {
     
-  servo_7.attach(7);
+  servo_9.attach(9);
   servo_8.attach(8);
   
  }
@@ -130,20 +130,20 @@ void RespondToCommand(tflite::ErrorReporter* error_reporter,
     if (found_command[0] == 'up') {
       last_command_time = current_time;
       digitalWrite(LEDG, LOW);  // Green for up, turning on the LED by LOW command
-      servo_7.write(0);        // Rotating servo to 0degrees to click the button on the lift when said "up"
+      servo_9.write(0);        // Rotating servo to 0degrees to click the button on the lift when said "up"
       delay(100);
       digitalWrite(LEDG, HIGH);  // Switching off the LED after flashing the command
-      servo_7.write(180); // servo returning to its original position i.e 180degrees
+      servo_9.write(180); // servo returning to its original position i.e 180degrees
       
     }
 
     if (found_command[0] == 'down') {
       last_command_time = current_time;
       digitalWrite(LEDR, LOW);  // Red for down, turning on the RED LED by LOW command
-      servo_7.write(0);        // Rotating servo to 0degrees to click the button on the lift when said "up"
+      servo_8.write(0);        // Rotating servo to 0degrees to click the button on the lift when said "up"
       delay(100);
       digitalWrite(LEDR, HIGH);  // Switching off the LED after flashing the command
-      servo_7.write(180); // servo returning to its original position i.e 180degrees
+      servo_8.write(180); // servo returning to its original position i.e 180degrees
     }
   }
 
